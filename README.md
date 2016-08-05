@@ -4,7 +4,9 @@
 ---
 
 相信看了上一篇 [ormLite 入门](http://blog.csdn.net/ziqiang1/article/details/52121643)，对ormLite框架也有了个基本的认识
+
 今天我们来了解一下ormLite的实际应用
+
 现在我们有3张表，分为是t_student，t_class,t_score，我们学生表中有班级和成绩两个外键的引用  
 我们来看一下代码:
 ###1.首先是实体类
